@@ -1,0 +1,9 @@
+# Never commit credentials or data
+config/settings.yaml
+data/
+logs/
+*.tar
+*.sha256
+__pycache__/
+*.pyc
+.env
