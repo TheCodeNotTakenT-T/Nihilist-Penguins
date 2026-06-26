@@ -1,4 +1,4 @@
-# Never commit credentials or data
+
 config/settings.yaml
 data/
 logs/
