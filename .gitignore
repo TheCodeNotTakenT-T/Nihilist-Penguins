@@ -1,4 +1,3 @@
-
 config/settings.yaml
 data/
 logs/
@@ -7,3 +6,5 @@ logs/
 __pycache__/
 *.pyc
 .env
+.venv
+__init__.py
